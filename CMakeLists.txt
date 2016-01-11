@@ -17,4 +17,4 @@ add_subdirectory(dvs128)
 
 # add_subdirectory(tools/ConvertEvents)
 # add_subdirectory(tools/EventVideoGenerator)
-# add_subdirectory(tools/ShowEvents)
+add_subdirectory(tools/ShowEvents)
