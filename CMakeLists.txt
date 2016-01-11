@@ -18,11 +18,3 @@ add_subdirectory(dvs128)
 # add_subdirectory(tools/ConvertEvents)
 # add_subdirectory(tools/EventVideoGenerator)
 # add_subdirectory(tools/ShowEvents)
-# 
-# add_subdirectory(aux/TestConnection)
-# add_subdirectory(aux/CheckEvents)
-# add_subdirectory(aux/Terminal)
-# add_subdirectory(aux/Examples)
-# add_subdirectory(aux/EventViewer)
-
-#add_subdirectory(aux/MathLink)
