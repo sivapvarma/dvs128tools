@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
+set(CMAKE_MACOSX_RPATH 1)
 
 set(EIGEN_INCLUDE_DIR "/usr/include/eigen3" CACHE STRING "Eigen3 include folder")
 

@@ -1,1 +1,6 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build files
 build/
